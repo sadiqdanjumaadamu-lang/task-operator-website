@@ -1,9 +1,24 @@
-# task-operator-website
-Helping creators and businesses grow, optimize, and monetize their social media presence through strategic consulting and digital solutions.
+task-operator-website/
+
 index.html
-style.css
-script.js
+about.html
+services.html
+pricing.html
+faq.html
+contact.html
+privacy.html
+terms.html
+404.html
+
 assets/
-    logo/
+    css/
+        style.css
+    js/
+        script.js
     images/
     icons/
+    logo/
+
+robots.txt
+sitemap.xml
+README.md
